@@ -1,1 +1,2 @@
-
+def hello():
+	return "Olá, meu nome é Breno e tenho 20 anos. Jogos eletrônicos, séries e filmes são meus hobbies. No que diz respeito à experiência com programação, aprendi o que foi exposto de Python na disciplina POO1 e sei um pouco de C, em virtude da minha formação técnica em eletrônica. Espero que POO2 possibilite um melhor entendimento da linguagem Python, bem como do paradigma que dá nome à disciplina. Além disso, gostaria de aprimorar minhas habilidades no que tange trabalho em equipe." #escreva aqui a sua apresentação - nome, idade, hobbies, experiência prévia de programação, e o que você espera desta disciplina
